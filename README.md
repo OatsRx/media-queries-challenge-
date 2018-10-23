@@ -9,7 +9,7 @@ In this challenge, using a mobile-first approach, I made a webpage responsive in
 - Remove the left and right margin for the devices below the 992px
 
 ## Feedback 
-I found this challenge pretty straight forward 
+I found this challenge pretty straight forward, although it has become apparent to me that the ordering of media queries is very important 
 
 
 # media-queries-challenge-
