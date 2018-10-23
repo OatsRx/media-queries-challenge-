@@ -11,5 +11,3 @@ In this challenge, using a mobile-first approach, I made a webpage responsive in
 ## Feedback 
 I found this challenge pretty straight forward, although it has become apparent to me that the ordering of media queries is very important 
 
-
-# media-queries-challenge-
